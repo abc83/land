@@ -8,3 +8,10 @@ git remote add origin https://github.com/abc83/land.git
 git branch -M main
 
 git push -u origin main
+
+初回
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
